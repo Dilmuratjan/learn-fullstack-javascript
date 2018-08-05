@@ -1,1 +1,1 @@
-# learn Fullsatck Javascript
+# learn Fullstack Javascript
